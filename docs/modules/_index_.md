@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["index"](_index_.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["index"](_index_.md)
 
 # Module: "index"
 

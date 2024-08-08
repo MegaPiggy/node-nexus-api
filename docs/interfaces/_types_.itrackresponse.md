@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [ITrackResponse](_types_.itrackresponse.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [ITrackResponse](_types_.itrackresponse.md)
 
 # Interface: ITrackResponse
 

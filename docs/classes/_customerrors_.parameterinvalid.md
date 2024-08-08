@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](../modules/_customerrors_.md) › [ParameterInvalid](_customerrors_.parameterinvalid.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](../modules/_customerrors_.md) › [ParameterInvalid](_customerrors_.parameterinvalid.md)
 
 # Class: ParameterInvalid
 

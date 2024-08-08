@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["Nexus"](../modules/_nexus_.md) › [Nexus](_nexus_.nexus.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["Nexus"](../modules/_nexus_.md) › [Nexus](_nexus_.nexus.md)
 
 # Class: Nexus
 

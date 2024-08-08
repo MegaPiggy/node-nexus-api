@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IMD5Result](_types_.imd5result.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IMD5Result](_types_.imd5result.md)
 
 # Interface: IMD5Result
 

@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["Nexus"](../modules/_nexus_.md) › [IRequestArgs](_nexus_.irequestargs.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["Nexus"](../modules/_nexus_.md) › [IRequestArgs](_nexus_.irequestargs.md)
 
 # Interface: IRequestArgs
 

@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](../modules/_customerrors_.md) › [ProtocolError](_customerrors_.protocolerror.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](../modules/_customerrors_.md) › [ProtocolError](_customerrors_.protocolerror.md)
 
 # Class: ProtocolError
 

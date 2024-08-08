@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IChangelogs](_types_.ichangelogs.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IChangelogs](_types_.ichangelogs.md)
 
 # Interface: IChangelogs
 

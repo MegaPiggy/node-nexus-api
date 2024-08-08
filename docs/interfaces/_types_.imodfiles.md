@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IModFiles](_types_.imodfiles.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IModFiles](_types_.imodfiles.md)
 
 # Interface: IModFiles
 

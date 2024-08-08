@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](../modules/_customerrors_.md) › [RateLimitError](_customerrors_.ratelimiterror.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](../modules/_customerrors_.md) › [RateLimitError](_customerrors_.ratelimiterror.md)
 
 # Class: RateLimitError
 

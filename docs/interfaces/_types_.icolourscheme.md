@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IColourScheme](_types_.icolourscheme.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IColourScheme](_types_.icolourscheme.md)
 
 # Interface: IColourScheme
 

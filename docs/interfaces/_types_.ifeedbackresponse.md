@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IFeedbackResponse](_types_.ifeedbackresponse.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IFeedbackResponse](_types_.ifeedbackresponse.md)
 
 # Interface: IFeedbackResponse
 

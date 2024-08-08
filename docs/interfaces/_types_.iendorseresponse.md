@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IEndorseResponse](_types_.iendorseresponse.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IEndorseResponse](_types_.iendorseresponse.md)
 
 # Interface: IEndorseResponse
 

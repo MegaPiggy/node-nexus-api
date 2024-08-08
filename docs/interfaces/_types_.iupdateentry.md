@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IUpdateEntry](_types_.iupdateentry.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IUpdateEntry](_types_.iupdateentry.md)
 
 # Interface: IUpdateEntry
 

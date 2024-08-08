@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["Nexus"](_nexus_.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["Nexus"](_nexus_.md)
 
 # Module: "Nexus"
 

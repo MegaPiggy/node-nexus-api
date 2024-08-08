@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [ITrackedMod](_types_.itrackedmod.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [ITrackedMod](_types_.itrackedmod.md)
 
 # Interface: ITrackedMod
 

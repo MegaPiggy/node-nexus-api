@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](_types_.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](_types_.md)
 
 # Module: "types"
 

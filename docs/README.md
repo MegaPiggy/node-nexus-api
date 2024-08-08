@@ -1,6 +1,6 @@
-[@nexusmods/nexus-api](README.md) › [Globals](globals.md)
+[@megapiggy/nexus-api](README.md) › [Globals](globals.md)
 
-# @nexusmods/nexus-api
+# @megapiggy/nexus-api
 
 # Nexus API
 

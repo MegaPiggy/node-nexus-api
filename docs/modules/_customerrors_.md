@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](_customerrors_.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["customErrors"](_customerrors_.md)
 
 # Module: "customErrors"
 

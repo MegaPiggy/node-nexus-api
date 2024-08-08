@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IOAuthCredentials](_types_.ioauthcredentials.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IOAuthCredentials](_types_.ioauthcredentials.md)
 
 # Interface: IOAuthCredentials
 

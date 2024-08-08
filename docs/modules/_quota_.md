@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["Quota"](_quota_.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["Quota"](_quota_.md)
 
 # Module: "Quota"
 

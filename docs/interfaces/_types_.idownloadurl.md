@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IDownloadURL](_types_.idownloadurl.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [IDownloadURL](_types_.idownloadurl.md)
 
 # Interface: IDownloadURL
 

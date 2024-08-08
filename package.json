@@ -1,10 +1,10 @@
 {
-  "name": "@nexusmods/nexus-api",
+  "name": "@megapiggy/nexus-api",
   "version": "1.1.5",
   "main": "./lib/index.js",
   "typings": "lib/index",
   "homepage": "https://www.nexusmods.com/",
-  "repository": "Nexus-Mods/node-nexus-api",
+  "repository": "MegaPiggy/node-nexus-api",
   "files": [
     "lib/"
   ],

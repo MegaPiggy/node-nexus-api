@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["parameters"](_parameters_.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["parameters"](_parameters_.md)
 
 # Module: "parameters"
 

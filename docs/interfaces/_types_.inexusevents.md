@@ -1,4 +1,4 @@
-[@nexusmods/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [INexusEvents](_types_.inexusevents.md)
+[@megapiggy/nexus-api](../README.md) › [Globals](../globals.md) › ["types"](../modules/_types_.md) › [INexusEvents](_types_.inexusevents.md)
 
 # Interface: INexusEvents
 
